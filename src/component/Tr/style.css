@@ -1,0 +1,32 @@
+.action-btn
+{
+    background-color: #1995AD;
+    border: none;
+    color: #F1F1F2;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    width: 100px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    cursor: pointer;
+   margin-top: 0.3rem;
+   margin-right: 0.2rem;
+}
+
+.action-btn:disabled
+{
+    background-color: #DDE6ED;
+    color: rgb(18, 16, 16);
+}
+
+.edit-input
+{
+    width: 80%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid gray;
+    padding: 5px 0px;
+    outline: none;
+}
