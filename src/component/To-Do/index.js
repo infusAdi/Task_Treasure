@@ -6,7 +6,7 @@ import {
   edit_item,
   remove_item,
 } from "../../redux/actions/todoAction";
-import Tr from "../Tr";
+import Tr from "../Table";
 
 import { motion } from "framer-motion";
 import { Link, useNavigate } from "react-router-dom";
